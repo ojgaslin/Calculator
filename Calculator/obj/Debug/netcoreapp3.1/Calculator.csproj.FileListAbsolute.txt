@@ -1,0 +1,12 @@
+/Users/oliviagaslin/Documents/GitHub/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.deps.json
+/Users/oliviagaslin/Documents/GitHub/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.json
+/Users/oliviagaslin/Documents/GitHub/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.dev.json
+/Users/oliviagaslin/Documents/GitHub/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.dll
+/Users/oliviagaslin/Documents/GitHub/Calculator/Calculator/bin/Debug/netcoreapp3.1/Calculator.pdb
+/Users/oliviagaslin/Documents/GitHub/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.csprojAssemblyReference.cache
+/Users/oliviagaslin/Documents/GitHub/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfoInputs.cache
+/Users/oliviagaslin/Documents/GitHub/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfo.cs
+/Users/oliviagaslin/Documents/GitHub/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.csproj.CoreCompileInputs.cache
+/Users/oliviagaslin/Documents/GitHub/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.dll
+/Users/oliviagaslin/Documents/GitHub/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.pdb
+/Users/oliviagaslin/Documents/GitHub/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.genruntimeconfig.cache
